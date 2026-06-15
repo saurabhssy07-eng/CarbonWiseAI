@@ -5,6 +5,14 @@
 > AI-powered personal carbon footprint tracker with Gemini-driven insights, gamification, and a real-time coaching chatbot.
 
 ---
+## 🚀 Live Demo
+
+🔗 https://carbon-wise-ai-liard.vercel.app
+
+### Test Account
+Sign in with Google to use all features.
+
+
 
 ## 🚀 Features
 
